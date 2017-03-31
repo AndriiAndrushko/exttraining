@@ -1,0 +1,9 @@
+#Folders
+.idea
+.sencha
+build
+ext
+overrides
+packages
+resources
+sass
